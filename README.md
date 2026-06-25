@@ -14,9 +14,8 @@
 
 ## sobre mí
 
-- Filosofía: Busco siempre la eficiencia, el orden y las buenas prácticas en cada línea de código.
-- Proyectos: Enfocado en el diseño de bases de datos sólidas y el desarrollo web de extremo a extremo.
-- Persistencia: Mi flujo de trabajo se basa en planificar, testear y depurar hasta que todo funcione a la perfección.
+- Filosofía: Priorizando siempre la eficiencia, el orden y las buenas prácticas en cada línea de código.
+- Proyectos: Enfocado en el diseño de bases de datos sólidas y el desarrollo web.
 
 ---
 
@@ -25,7 +24,6 @@
 **Frontend & Design**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend & Databases**
