@@ -5,7 +5,7 @@
 **Desarrollo de software / Estudiante · El Salvador**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/genmath26-bit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/jorge-adalberto-henríquez-merino-85a0b63a1?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-adalberto-henríquez-merino-85a0b63a1?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![El Salvador](https://img.shields.io/badge/El_Salvador-🇸🇻-0047AB?style=for-the-badge)]()
 
 </div>
