@@ -14,8 +14,11 @@
 
 ## sobre mí
 
-- Filosofía: Priorizando siempre la eficiencia, el orden y las buenas prácticas en cada línea de código.
-- Proyectos: Enfocado en el diseño de bases de datos sólidas y el desarrollo web.
+Soy un estudiante de Desarrollo de Software, actualmente estudio en el Instituto Nacional de San Miguel Tepezontes.
+
+Ahora mismo el Desarrollo Web y la Administracion en Bases de Datos es lo que más llama mi atención, debido a la gran cantidad de recursos que hay en este rubro, y la demanda que esto conlleva.
+
+Soy conciente de que entender y aprender sobre tecnologias, no es algo demasiado facil, esto conlleva un esfuerzo enorme si se quiere hacer bien, pero tambien hay herramientas para explotar tu capacidad y aprender de una forma más intuitiva y guiada.
 
 ---
 
