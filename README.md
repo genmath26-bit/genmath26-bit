@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**genmath26-bit/genmath26-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SOY JORGE HENRIQUEZ
 
-Here are some ideas to get you started:
+**Desarrollo de software / Estudiante · El Salvador**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![El Salvador](https://img.shields.io/badge/El_Salvador-🇸🇻-0047AB?style=for-the-badge)]()
+
+</div>
+
+---
+
+## sobre mí
+
+- Filosofía: Busco siempre la eficiencia, el orden y las buenas prácticas en cada línea de código.
+- Proyectos: Enfocado en el diseño de bases de datos sólidas y el desarrollo web de extremo a extremo.
+- Persistencia: Mi flujo de trabajo se basa en planificar, testear y depurar hasta que todo funcione a la perfección.
+
+---
+
+## stack
+
+**Frontend & Design**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+---
+
+## proyectos destacados
+
+### XProject
+> 
+
+Stack: `[Tech 1]` `[Tech 2]` `[Tech 3]`
+
+[Una o dos oraciones sobre qué aprendiste o qué problema resuelve.]
+
